@@ -1,7 +1,15 @@
-.footer{
+.correo{
     display: flex;
     align-items: center;
     justify-content: center;
     background-color: aqua;
 }
+
+h3 {
+    background-color: aquamarine;
+    border: 1px solid black;
+    text-align: center;
+}
+
+
 
